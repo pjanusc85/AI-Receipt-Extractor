@@ -63,14 +63,22 @@
 ### Landing Page
 *Upload your receipt image via drag-and-drop or file selection*
 
+![Landing Page](screenshots/landing-page.png)
+
 ### File Preview
 *Review selected file details before processing*
+
+![File Preview](screenshots/file-preview.png)
 
 ### Processing
 *Real-time progress indicator during AI extraction*
 
+![Processing](screenshots/file-processing.png)
+
 ### Results
 *View extracted data with original receipt image*
+
+![Results](screenshots/results.png)
 
 ---
 
